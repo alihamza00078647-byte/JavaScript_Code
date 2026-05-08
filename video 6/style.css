@@ -1,0 +1,22 @@
+.head{
+    color: green;
+    text-decoration-color: red;
+    text-align: center;
+
+
+}
+
+
+/* h1{
+    visibility: hidden;
+} */
+
+.box{
+    height: 100px;
+    width: 90px;
+    border: 2px solid black;
+    margin: 9px;
+    text-align: center;
+    background-color: rgb(127, 255, 242);
+    border-radius: 10px;
+}
