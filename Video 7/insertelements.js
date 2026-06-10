@@ -22,8 +22,6 @@ console.dir(el);
 // let div = document.querySelector("div");
 // div.after(el);
 
-
-
 // Remove node from document
 // add button at the start of node (outside)
 
