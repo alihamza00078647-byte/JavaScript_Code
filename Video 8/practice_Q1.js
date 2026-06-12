@@ -9,11 +9,12 @@ changeColor.addEventListener("click", () => {
     } else {
         mode = "white";
         document.body.style.backgroundColor = mode;
+        mode = "white";
     }
     console.log(mode);
 });
 
 
-// changeColor.addEventListener("click", () =>{
-//     document.body.style.backgroundColor = "Black";
-// });
+changeColor.addEventListener("click", () =>{
+    document.body.style.backgroundColor = "Black";
+});
