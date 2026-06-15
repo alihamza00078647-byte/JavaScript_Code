@@ -1,8 +1,8 @@
 // Return a Promise
-// async function hello() {
-//     console.log("Hello World!");
-// }
-// hello();
+async function hello() {
+    console.log("Hello World!");
+}
+hello();
 
 async function api(){
     return new Promise((resolve, reject) => {
